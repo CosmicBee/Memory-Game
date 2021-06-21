@@ -3,4 +3,21 @@
   flex-wrap: wrap;
   height: 300px;
   width: 400px;
+  padding: auto;
+  margin: auto;
+}
+
+h2 {
+  color: rgb(110, 255, 110);
+  font-size: 60px;
+}
+
+h3 {
+  color: rgb(161, 62, 253);
+  font-size: 50px;
+}
+
+body {
+  background-color: rgb(255, 114, 138);
+  text-align: center;
 }
